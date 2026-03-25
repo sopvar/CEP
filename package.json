@@ -1,9 +1,4 @@
-{
-  "devDependencies": {
-    "tailwindcss": "^4.1.18"
-  },
-    "scripts": {
-    "build": "echo build complete"
-  }
-} 
-
+"scripts": {
+  "dev": "vite",
+  "build": "vite build"
+}
